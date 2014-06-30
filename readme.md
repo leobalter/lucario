@@ -78,12 +78,12 @@ Not available yet.
 
 Palette      | Hex       | RGB           | HSL                  | Example
 ---          | ---       | ---           | ---                  | ---
-Background   | `#2b3e50` | `43 62 80`    | `209.2° 30.1% 24.1%` | <input type="color" readonly value="#2b3e50" style="background-color:#2b3e50; border: none; content: '&nbsp;' " />
-Current Line | `#243443` | `36 52 67`    | `209° 30.1% 20.2%`   | <input type="color" readonly value="#243443" style="background-color:#243443; border: none; content: '&nbsp;' " />
-Selection    | `#19242f` | `25 36 47`    | `210° 30.6% 14.1%`   | <input type="color" readonly value="#19242f" style="background-color:#19242f; border: none; content: '&nbsp;' " />
-Foreground   | `#f8f8f2` | `248 248 242` | `60° 30% 96%`        | <input type="color" readonly value="#f8f8f2" style="background-color:#f8f8f2; border: none; content: '&nbsp;' " />
-Comment      | `#5c98cd` | `92 152 205`  | `208.1° 53.1% 58.2%` | <input type="color" readonly value="#5c98cd" style="background-color:#5c98cd; border: none; content: '&nbsp;' " />
-String       | `#E6DB74` | `230 219 116` | `54.2° 69.5% 67.8%`  | <input type="color" readonly value="#E6DB74" style="background-color:#E6DB74; border: none; content: '&nbsp;' " />
+Background   | `#2b3e50` | `43 62 80`    | `209.2° 30.1% 24.1%` | <div style="background-color:#2b3e50;color:transparent">color</div>
+Current Line | `#243443` | `36 52 67`    | `209° 30.1% 20.2%`   | <div style="background-color:#243443;color:transparent">color</div>
+Selection    | `#19242f` | `25 36 47`    | `210° 30.6% 14.1%`   | <div style="background-color:#19242f;color:transparent">color</div>
+Foreground   | `#f8f8f2` | `248 248 242` | `60° 30% 96%`        | <div style="background-color:#f8f8f2;color:transparent">color</div>
+Comment      | `#5c98cd` | `92 152 205`  | `208.1° 53.1% 58.2%` | <div style="background-color:#5c98cd;color:transparent">color</div>
+String       | `#E6DB74` | `230 219 116` | `54.2° 69.5% 67.8%`  | <div style="background-color:#E6DB74;color:transparent">color</div>
 
 ## Contributing
 
