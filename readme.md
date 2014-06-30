@@ -76,14 +76,14 @@ Not available yet.
 
 ## Color Palette
 
-Palette      | Hex       | RGB           | HSL
----          | ---       | ---           | ---
-Background   | `#2b3e50` | `43 62 80`    | `209.2° 30.1% 24.1%`
-Current Line | `#243443` | `36 52 67`    | `209° 30.1% 20.2%`
-Selection    | `#19242f` | `25 36 47`    | `210° 30.6% 14.1%`
-Foreground   | `#f8f8f2` | `248 248 242` | `60° 30% 96%`
-Comment      | `#5c98cd` | `92 152 205`  | `208.1° 53.1% 58.2%`
-String       | `#E6DB74` | `230 219 116` | `54.2° 69.5% 67.8%`
+Palette      | Hex       | RGB           | HSL                  | Example
+---          | ---       | ---           | ---                  | ---
+Background   | `#2b3e50` | `43 62 80`    | `209.2° 30.1% 24.1%` | <input type="color" value="#2b3e50">
+Current Line | `#243443` | `36 52 67`    | `209° 30.1% 20.2%`   | <input type="color" value="#243443">
+Selection    | `#19242f` | `25 36 47`    | `210° 30.6% 14.1%`   | <input type="color" value="#19242f">
+Foreground   | `#f8f8f2` | `248 248 242` | `60° 30% 96%`        | <input type="color" value="#f8f8f2">
+Comment      | `#5c98cd` | `92 152 205`  | `208.1° 53.1% 58.2%` | <input type="color" value="#5c98cd">
+String       | `#E6DB74` | `230 219 116` | `54.2° 69.5% 67.8%`  | <input type="color" value="#E6DB74">
 
 ## Contributing
 
